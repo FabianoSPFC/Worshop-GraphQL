@@ -1,6 +1,6 @@
 # Worshop-GraphQL
 
 npm init -y
-\nnpm i express
-\nnpm i express-graphql graphql
-\nnpm i lodash 
+npm i express
+npm i express-graphql graphql
+npm i lodash 
